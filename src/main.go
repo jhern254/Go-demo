@@ -6,6 +6,6 @@ import (
 
 func main() {
     x := 2
-    fmt.Printf("Hello World")
-    fmt.Printf("X is ", x)
+    fmt.Println("Hello World")
+    fmt.Println("X is ", x)
 }
